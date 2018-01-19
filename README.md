@@ -13,7 +13,7 @@ Awesome-Pytorch-list
 
 1. [pytorch](http://pytorch.org ) : Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 
-### NLP & Speech Processing:
+### 自然语言处理 & 语音处理:
 
 1. [pytorch text](https://github.com/pytorch/text) : Torch text related contents.  
 2. [pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq): A framework for sequence-to-sequence (seq2seq) models implemented in PyTorch.  
@@ -30,7 +30,7 @@ Awesome-Pytorch-list
 13. [pytorch-wavenet](https://github.com/vincentherrmann/pytorch-wavenet): An implementation of WaveNet with fast generation
 14. [Tacotron-pytorch](https://github.com/soobinseo/Tacotron-pytorch): Tacotron: Towards End-to-End Speech Synthesis
 
-### CV:
+### 计算机视觉处理:
 
 1. [pytorch vision](https://github.com/pytorch/vision) : Datasets, Transforms and Models specific to Computer Vision.
 2. [pt-styletransfer](https://github.com/tymokvo/pt-styletransfer): Neural style transfer as a class in PyTorch.
@@ -42,14 +42,14 @@ Awesome-Pytorch-list
 8. [pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation): PyTorch for Semantic Segmentation.
 9. [RoIAlign.pytorch](https://github.com/longcw/RoIAlign.pytorch): This is a PyTorch version of RoIAlign. This implementation is based on crop_and_resize and supports both forward and backward on CPU and GPU.
 
-### Probabilistic/Generative Libraries:
+### 概率/生成库:
 
 1. [ptstat](https://github.com/stepelu/ptstat): Probabilistic Programming and Statistical Inference in PyTorch
 2. [pyro](https://github.com/uber/pyro): Deep universal probabilistic programming with Python and PyTorch http://pyro.ai
 3. [probtorch](https://github.com/probtorch/probtorch): Probabilistic Torch is library for deep generative models that extends PyTorch.
 4. [paysage](https://github.com/drckf/paysage): Unsupervised learning and generative models in python/pytorch.
 
-### Other libraries:
+### 其他:
 
 1. [pytorch extras](https://github.com/mrdrozdov/pytorch-extras) : Some extra features for pytorch.    
 2. [functional zoo](https://github.com/szagoruyko/functional-zoo) : PyTorch, unlike lua torch, has autograd in it's core, so using modular structure of torch.nn modules is not necessary, one can easily allocate needed Variables and write a function that utilizes them, which is sometimes more convenient. This repo contains model definitions in this functional way, with pretrained weights for some models. 
@@ -89,7 +89,7 @@ Awesome-Pytorch-list
 36. [generative_zoo](https://github.com/DL-IT/generative_zoo): generative_zoo is a repository that provides working implementations of some generative models in PyTorch.
 
 
-## Tutorials & examples
+## 教程 & 示例
 
 1. **[Practical Pytorch](https://github.com/spro/practical-pytorch)** : Tutorials explaining different RNN models
 2. [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) : An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing. 
@@ -129,7 +129,7 @@ Awesome-Pytorch-list
 36. [Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial): Pytorch easy-to-follow Capsule Network tutorial
 
 
-## Paper implementations
+## 理论实践
 
 1. [google_evolution](https://github.com/neuralix/google_evolution) : This implements one of result networks from Large-scale evolution of image classifiers by Esteban Real, et. al. 
 2. [pyscatwave](https://github.com/edouardoyallon/pyscatwave) : Fast Scattering Transform with CuPy/PyTorch,read the paper [here](https://arxiv.org/abs/1703.08961)
@@ -325,7 +325,7 @@ Awesome-Pytorch-list
 191. [deep-forecast-pytorch](https://github.com/Wizaron/deep-forecast-pytorch): Wind Speed Prediction using LSTMs in PyTorch (arxiv.org/pdf/1707.08110.pdf)
 192. [cat-net](https://github.com/utiasSTARS/cat-net):  Canonical Appearance Transformations
 
-## Blogs & Articles
+## 博客 & 文章
 
 1. [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 2. [adversarial-autoencoders-with-pytorch](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
