@@ -4,8 +4,8 @@ Awesome-Pytorch-list
 ![pytorch-logo-dark](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
 
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-1100+-brightgreen.svg?style=flat"/>
-	<img src="https://img.shields.io/badge/forks-170+-brightgreen.svg?style=flat"/>
+	<img src="https://img.shields.io/badge/stars-1150+-brightgreen.svg?style=flat"/>
+	<img src="https://img.shields.io/badge/forks-200+-brightgreen.svg?style=flat"/>
 	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 </p>
 
@@ -87,6 +87,10 @@ Awesome-Pytorch-list
 34. [pytorch-mcn](https://github.com/albanie/pytorch-mcn): Convert models from MatConvNet to PyTorch
 35. [simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch): A simplified implemention of Faster R-CNN with competitive performance.
 36. [generative_zoo](https://github.com/DL-IT/generative_zoo): generative_zoo is a repository that provides working implementations of some generative models in PyTorch.
+37. [pytorchviz](https://github.com/szagoruyko/pytorchviz): A small package to create visualizations of PyTorch execution graphs. 
+38. [cogitare](https://github.com/cogitare-ai/cogitare): Cogitare - A Modern, Fast, and Modular Deep Learning and Machine Learning framework in Python. 
+39. [pydlt](https://github.com/dmarnerides/pydlt): PyTorch based Deep Learning Toolbox
+
 
 
 ## 教程 & 示例
@@ -324,6 +328,12 @@ Awesome-Pytorch-list
 190. [DeepRL-Grounding](https://github.com/devendrachaplot/DeepRL-Grounding): This is a PyTorch implementation of the AAAI-18 paper Gated-Attention Architectures for Task-Oriented Language Grounding
 191. [deep-forecast-pytorch](https://github.com/Wizaron/deep-forecast-pytorch): Wind Speed Prediction using LSTMs in PyTorch (arxiv.org/pdf/1707.08110.pdf)
 192. [cat-net](https://github.com/utiasSTARS/cat-net):  Canonical Appearance Transformations
+193. [minimal_glo](https://github.com/tneumann/minimal_glo): Minimal PyTorch implementation of Generative Latent Optimization from the paper "Optimizing the Latent Space of Generative Networks"
+194. [LearningToCompare-Pytorch](https://github.com/dragen1860/LearningToCompare-Pytorch): Pytorch Implementation for Paper: Learning to Compare: Relation Network for Few-Shot Learning. 
+195. [poincare-embeddings](https://github.com/facebookresearch/poincare-embeddings): PyTorch implementation of the NIPS-17 paper "Poincaré Embeddings for Learning Hierarchical Representations". 
+196. [pytorch-trpo(Hessian-vector product version)](https://github.com/ikostrikov/pytorch-trpo): This is a PyTorch implementation of "Trust Region Policy Optimization (TRPO)" with exact Hessian-vector product instead of finite differences approximation.
+197. [ggnn.pytorch](https://github.com/JamesChuanggg/ggnn.pytorch): A PyTorch Implementation of Gated Graph Sequence Neural Networks (GGNN). 
+198. [visual-interaction-networks-pytorch](https://github.com/Mrgemy95/visual-interaction-networks-pytorch): This's an implementation of deepmind Visual Interaction Networks paper using pytorch
 
 ## 博客 & 文章
 
